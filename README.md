@@ -1,5 +1,5 @@
-# ShoppingMallProject
-쇼핑몰 사이트 제작 프로젝트
+# 중고 거래 PROJECT
+중고 거래 사이트
 
 모델 - 아래 블로그를 통해 자세히 확인 가능합니다.
 https://hayongwoon.tistory.com/120
